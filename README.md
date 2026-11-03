@@ -3,53 +3,68 @@
 
 ![Tally Bridge – Main Window](ui-mixer.png)
 
-**Tally Signal Integration for Professional Video Production**
+**Connecting Video Switchers and Cameras**
 
-Tally Bridge is a software tool by Habster designed for tally signal integration in video production and professional AV environments.
+Tally Bridge is a software project by Habster for integrating tally signals between video switchers and cameras in live video production environments.
 
-This GitHub repository provides information about the project and links to the official software website.
+It is designed around the need to communicate camera status information between production equipment.
 
-## Download
+## Download & Documentation
 
-**[Download Tally Bridge – Official Habster Website](https://www.habster.ch/tally%20bridge/)**
+**[Tally Bridge – Official Website](https://www.habster.ch/tally-bridge-die-verbindung-zwischen-videomischer-und-kameras/)**
 
-The official website provides software downloads, documentation and additional product information.
+Visit the official website for information about the software, supported equipment, configuration and downloads.
+
+## What is Tally?
+
+In live video production, tally signals indicate which cameras are currently active.
+
+Common tally states include:
+
+- **Program (PGM):** Camera currently on air.
+- **Preview (PVW):** Camera selected for the next transition.
+- **Off:** Camera not currently selected for program or preview.
+
+These indicators help camera operators understand how their cameras are being used during a production.
 
 ## About Tally Bridge
 
-Tally signals play an important role in live video production by indicating the status of cameras and other production equipment.
+Tally Bridge focuses on connecting video switchers and cameras within a tally workflow.
 
-Tally Bridge is intended for use in workflows involving tally signal integration.
-
-For supported interfaces, compatibility information, configuration instructions and detailed functionality, please refer to the official product page.
+The supported devices, communication protocols and configuration options are documented on the official project website.
 
 ## Applications
 
-Tally Bridge is intended for professional video and AV workflows, including environments where tally signal integration is required.
+- Live video production
+- Multi-camera environments
+- Broadcast and studio workflows
+- Professional audiovisual installations
 
-## Documentation and Support
+## Software & Compatibility
 
-For setup instructions, system requirements and technical information, visit:
+Please refer to the official website for supported operating systems, video switchers, cameras and connection methods.
 
-**[Tally Bridge – Habster.ch](https://www.habster.ch/tally%20bridge/)**
-
-## License and Source Code
+## License
 
 Tally Bridge is proprietary software (Closed Source).
 
 The source code is not publicly available.
 
-All rights are reserved by the respective copyright holder. Usage and distribution are subject to the applicable software license terms.
+This repository provides project information and links to the official website. It does not contain the application source code.
 
-This repository is intended for product information and documentation only. It does not contain the application source code.
+All rights reserved by the respective copyright holder.
 
-## Deutsche Kurzbeschreibung
+## Deutsche Beschreibung
 
-Tally Bridge ist ein Software-Tool von Habster für die Integration von Tally-Signalen in Videoproduktions- und professionellen AV-Umgebungen.
+**Tally Bridge – Die Verbindung zwischen Videomischer und Kameras**
 
-Informationen zu den unterstützten Schnittstellen, zur Einrichtung und zum Download findest du auf der offiziellen Website.
+Tally Bridge ist ein Softwareprojekt von Habster zur Integration von Tally-Signalen zwischen Videomischern und Kameras.
 
-**[Tally Bridge herunterladen und weitere Informationen](https://www.habster.ch/tally%20bridge/)**
+Tally-Anzeigen unterstützen Kameraleute bei Liveproduktionen, indem sie den aktuellen Programm- oder Vorschaustatus einer Kamera signalisieren.
+
+Informationen zu den unterstützten Geräten, zur Konfiguration und zur Software findest du auf der offiziellen Projektseite.
+
+**[Weitere Informationen zu Tally Bridge](https://www.habster.ch/tally-bridge-die-verbindung-zwischen-videomischer-und-kameras/)**
 
 ---
 
