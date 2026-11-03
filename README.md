@@ -1,4 +1,7 @@
 # Tally Bridge
+## Screenshot
+
+![Tally Bridge – Main Window](ui-mixer.png)
 
 **Tally Signal Integration for Professional Video Production**
 
