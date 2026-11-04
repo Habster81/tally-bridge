@@ -5,6 +5,7 @@
 **Reliable tally indication – even in productions using equipment from different manufacturers.**
 
 Tally Bridge is a free Windows 11 application that reads Program and Preview states from video switchers and controls the tally indicators of assigned network cameras.
+Since Version 0.9.2 there is also a Linux Version availlable.
 
 It helps camera operators immediately identify which camera is currently on air.
 
@@ -157,7 +158,7 @@ Update notifications are shown only when a newer version is available.
 
 ## System Requirements
 
-- **Operating System:** Windows 11
+- **Operating System:** Windows 11 since Version 0.9.2. also Ubuntu 24.04 LTS · Intel/AMD 64 Bit
 - **Network:** Connectivity to the configured video switchers and cameras
 - **Hardware:** Compatible video switcher and camera equipment
 
